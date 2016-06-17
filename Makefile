@@ -1,4 +1,4 @@
-# Created by: aduitsis@cpan.org
+# Created by: Athanasios Douitsis <aduitsis@cpan.org>
 # $FreeBSD$
 
 PORTNAME=		IPv6-Address
