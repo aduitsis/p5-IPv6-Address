@@ -1,0 +1,9 @@
+%%PERL5_MAN3%%/IPv6::Address.3.gz
+%%SITE_PERL%%/IPv6/Address.pm
+@dirrmtry %%PERL5_MAN3%%
+@dirrmtry lib/perl5/%%PERL_VER%%/man
+@dirrmtry lib/perl5/%%PERL_VER%%
+@dirrmtry %%SITE_PERL%%/IPv6
+@dirrmtry %%SITE_PERL%%
+@dirrmtry lib/perl5/site_perl
+@dirrmtry lib/perl5

@@ -1,0 +1,7 @@
+IPv6::Address - IPv6 Address Manipulation Library
+
+A pure Perl IPv6 address manipulation library. Emphasis on manipulation
+of prefixes and addresses. Very easy to understand and modify. A
+multitude of methods to do various tasks is provided.
+
+WWW: https://github.com/aduitsis/IPv6-Address
